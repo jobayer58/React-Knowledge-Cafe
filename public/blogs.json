@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/cover1.jpg",
+      "title": "Mastering JavaScript",
+      "author": "John Doe",
+      "author_img": "https://i.postimg.cc/cLtx2GfQ/istockphoto-1854649989-612x612.webp",
+      "posted_date": "2025-01-01",
+      "reading_time": "5 min",
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/cover2.jpg",
+      "title": "Understanding CSS Grid",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/images/jane_smith.jpg",
+      "posted_date": "2025-01-02",
+      "reading_time": "8 min",
+      "hashtags": ["#CSS", "#GridLayout", "#Design"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/cover3.jpg",
+      "title": "The Future of AI",
+      "author": "Emily Johnson",
+      "author_img": "https://example.com/images/emily_johnson.jpg",
+      "posted_date": "2025-01-03",
+      "reading_time": "10 min",
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/cover4.jpg",
+      "title": "Healthy Lifestyle Tips",
+      "author": "Mark Wilson",
+      "author_img": "https://example.com/images/mark_wilson.jpg",
+      "posted_date": "2025-01-04",
+      "reading_time": "6 min",
+      "hashtags": ["#Health", "#Lifestyle", "#Wellness"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/cover5.jpg",
+      "title": "Exploring the Universe",
+      "author": "Sophia Brown",
+      "author_img": "https://example.com/images/sophia_brown.jpg",
+      "posted_date": "2025-01-05",
+      "reading_time": "12 min",
+      "hashtags": ["#Astronomy", "#Science", "#Space"]
+    }
+  ]
+  
